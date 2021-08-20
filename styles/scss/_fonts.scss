@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+@font-face {
+    font-family: 'Bebas Neue Cyrillic';
+    src: local('Bebas Neue Cyrillic'), local('BebasNeueCyrillic'),
+        url('../../fonts/BebasNeueCyrillic.woff2') format('woff2'),
+        url('../../fonts/BebasNeueCyrillic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: local('Bebas Neue Light Regular'), local('BebasNeueLight'),
+        url('../../fonts/BebasNeueLight.woff2') format('woff2'),
+        url('../../fonts/BebasNeueLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
